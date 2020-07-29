@@ -1,0 +1,57 @@
+Write your CSS in here {
+	@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&display=swap');
+}
+/* what we're selecting */
+h1 {
+	font-weight: 200;
+	font-size: 50px;
+	text-transform: uppercase;
+	border-top: 5px solid;
+}
+
+body {
+	background-color: #ffa99a;
+	color: #2e1263;
+	font-family: 'Source Code Pro', monospace;
+	font-weight: 200;
+}
+
+img {
+	height: 500px;
+	border-radius: 50%;
+}
+
+#container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	/* using 100 percent of the height and centering things */
+	height: 100vh;
+}
+
+button {
+	/* space before and after text */
+	margin: 30px auto 0;
+	/* space between elements */
+	padding: 20px 25px;
+	background-color: rgb(178, 145, 208);
+	font-size: 12px;
+	text-align: center;
+	border: 1px solid rgb(0, 0, 0);
+	text-transform: uppercase;
+	text-decoration: none;
+	letter-spacing: 4px;
+	outline: none;
+}
+
+button:hover {
+	transition: 0.3s;
+	background-color: rgb(85, 0, 121);
+	color: darksalmon;
+	text-decoration: underline;
+}
+
+p {
+	font-size: 20px;
+}
