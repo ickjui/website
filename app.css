@@ -10,7 +10,8 @@ h1 {
 }
 
 body {
-	background-color: #ffa99a;
+	background: rgb(34,193,195);
+	background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,113,45,1) 100%);
 	color: #2e1263;
 	font-family: 'Source Code Pro', monospace;
 	font-weight: 200;
