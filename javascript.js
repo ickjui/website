@@ -1,6 +1,6 @@
 // Write your JS in here
 let pics = [
-	'IMG_0267.jpg',
+	'https://github.com/ickjui/photos/blob/master/IMG_0267.jpg',
 	'IMG_0733.JPG',
 	'IMG_2469.jpg'
 	
