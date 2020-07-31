@@ -1,9 +1,9 @@
 // Write your JS in here
 let pics = [
-	'/Users/jlockin/Documents/clapping.gif',
-	'/Users/jlockin/Documents/bushes.gif',
-	'/Users/jlockin/Documents/skramps.png',
-	'/Users/jlockin/Documents/smcbbs.jpeg'
+	'IMG_0267.jpg',
+	'IMG_0733.JPG',
+	'IMG_2469.jpg'
+	
 ];
 
 const btn = document.querySelector('button');
