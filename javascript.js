@@ -1,11 +1,9 @@
-// Write your JS in here
 let pics = [
 	'IMG_2109.JPG',
 	'IMG_0733.JPG',
 	'IMG_2469.jpg',
 	'IMG_1974.jpg',
 	'IMG_1780.jpg'
-	
 ];
 
 const btn = document.querySelector('button');
