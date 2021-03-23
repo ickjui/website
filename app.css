@@ -1,6 +1,7 @@
-Write your CSS in here {
+CSS in here {
 	@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&display=swap');
 }
+
 /* what we're selecting */
 h1 {
 	font-weight: 200;
